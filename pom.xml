@@ -21,6 +21,12 @@
             <artifactId>poi</artifactId>
             <version>5.2.3</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>5.2.3</version>
+        </dependency>
         <!--
         MySQL Connector/J is a JDBC Type 4 driver, Which means that it is pure Java implementation of the MySQL
         protocol and does not rely on the MySQL client libraries.
